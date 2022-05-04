@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>mybatis-step-01</module>
+        <module>mybatis-step-02</module>
     </modules>
 
     <properties>
